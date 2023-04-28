@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navbar, Footer,  Home, AdsComponent, BottomNav} from "../component"
+import { Navbar, Footer,  Home, BottomNav} from "../component"
 
 const Homepage = ({allData, allDatai, allDatap, allDatab, allDatapo, allDatav, allDatac}) => {
    console.log(allData);

@@ -4,19 +4,19 @@ import { Link } from 'react-router-dom'
 
 const Blogs = ({blogs, firstblogs}) => {
    console.log(blogs);
-   const firstThreeBlogs = blogs.data.slice(2, 3);
-   const firstThree = firstblogs.data.slice(0, 1);
+  //  const firstThreeBlogs = blogs.data.slice(2, 3);
+  //  const firstThree = firstblogs.data.slice(0, 1);
    const firstThre = firstblogs.data.slice(0, 1);
    const firstThr = firstblogs.data.slice(1, 2);
    const firstTh = firstblogs.data.slice(2, 3);
    const firstThrr = firstblogs.data.slice(3, 4);
    const firstThee = firstblogs.data.slice(4, 5);
    const firstTheee = firstblogs.data.slice(5, 6);
-   const blogg = blogs.data.slice(0, 1);
+  //  const blogg = blogs.data.slice(0, 1);
    const bloggg = blogs.data.slice(1, 5);
    const blogi = blogs.data.slice(5, 6);
    const bloggi = blogs.data.slice(6, 14);
-   const blogggi = blogs.data.slice(11, 12);
+  //  const blogggi = blogs.data.slice(11, 12);
 
 
 

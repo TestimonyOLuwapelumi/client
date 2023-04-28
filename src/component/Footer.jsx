@@ -1,8 +1,9 @@
 import React from 'react';
-import {FaFacebook, FaGithub, FaInstagram, FaTwitter, FaTwitch, FaTiktok} from 'react-icons/fa';
+// import {FaFacebook, FaGithub, FaInstagram, FaTwitter, FaTwitch, FaTiktok} from 'react-icons/fa';
 import { Link } from 'react-router-dom'
 // import myImg from "../images/1553127832.svg"
-import{menu, close, logo, logoo} from '../assets';
+import{logo} from '../assets';
+// import{menu, close, logo, logoo} from '../assets';
 // import myImage from "../assets/logoo.svg"
 
 

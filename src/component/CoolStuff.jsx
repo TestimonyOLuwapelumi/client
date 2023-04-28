@@ -5,14 +5,14 @@ const CoolStuff = ({allData, allDatai, allDatap, allDatab, allDatapo, allDatav, 
     const humour = allData.slice(0, 1);
     const humour2 = allData.slice(1, 2);
     const humour3 = allData.slice(2, 3);
-    const humour4 = allData.slice(3, 5);
+    // const humour4 = allData.slice(3, 5);
   
   
   
     const imagination = allDatai.slice(0,1)
     const imagination2 = allDatai.slice(1,2)
     const imagination3 = allDatai.slice(2,3)
-    const imagination4 = allDatai.slice(3,5)
+    // const imagination4 = allDatai.slice(3,5)
    
   
   
@@ -20,16 +20,16 @@ const CoolStuff = ({allData, allDatai, allDatap, allDatab, allDatapo, allDatav, 
     const personality2 = allDatap.slice(1,2)
     const personality3 = allDatap.slice(2,3)
     const personality4 = allDatap.slice(3,4)
-    const personality5 = allDatap.slice(4,6)
+    // const personality5 = allDatap.slice(4,6)
   
   
   
-    const allDatavv = allDatav.slice(0,3)
-    const allDatapoo = allDatapo.slice(0,4)
+    // const allDatavv = allDatav.slice(0,3)
+    // const allDatapoo = allDatapo.slice(0,4)
   
   
-    const blog = allDatab.slice(0,4)
-    const blog1 = allDatab.slice(4,6)
+    // const blog = allDatab.slice(0,4)
+    // const blog1 = allDatab.slice(4,6)
   
       // const [allData, setallData] = useState([])
       // const url = 'http://localhost:1337/api/humours?populate=*';

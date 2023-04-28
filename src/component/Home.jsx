@@ -1,6 +1,7 @@
-import React, {useEffect, useState} from 'react'
-import axios from 'axios'
-import{menu, close, logo, logoo} from '../assets';
+import React from 'react'
+// import React, {useEffect, useState} from 'react'
+// import axios from 'axios'
+// import{menu, close, logo, logoo} from '../assets';
 import Carousel from './Carousel';
 // import Carousel from "./Carousel"
 import "./Hum.css"

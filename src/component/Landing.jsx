@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Landing.css"
 import myImage from "../assets/hero.png"
-import{menu, close, logo, logoo} from '../assets';
+import{logo} from '../assets';
 import { Link } from 'react-router-dom'
 // import { AnimationEvent } from 'react';
 

@@ -7,7 +7,7 @@ const Firstblog = ({firstblogs}) => {
 
     let firstblog={}
     if(firstblog){
-       let arr = firstblogs.data.filter(firstblog=> firstblog.id == id)
+       let arr = firstblogs.data.filter(firstblog=> firstblog.id === id)
        firstblog=arr[0]
 
     }else{

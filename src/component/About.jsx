@@ -1,9 +1,9 @@
-import React, {useEffect, useState} from 'react'
-import Navbar from './Navbar'
-import axios from 'axios'
-import Humour from './Humour'
+// import React, {useEffect, useState} from 'react'
+// import Navbar from './Navbar'
+// import axios from 'axios'
+// import Humour from './Humour'
 import { Link } from 'react-router-dom'
-import { ReactMarkdown } from 'react-markdown/lib/react-markdown'
+// import { ReactMarkdown } from 'react-markdown/lib/react-markdown'
 import "./Hum.css"
 
 

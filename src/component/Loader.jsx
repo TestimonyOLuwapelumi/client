@@ -1,6 +1,6 @@
 import React from 'react'
 // import React, { useState, useEffect } from 'react';
-import{menu, close, logo, logoo} from '../assets';
+import{logo} from '../assets';
 
 const Loader = () => {
   return (

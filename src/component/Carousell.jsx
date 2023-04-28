@@ -12,7 +12,7 @@ import 'swiper/css/scrollbar';
 // import Carousell from './Carousell';
 const Carousell = ({allDatac}) => {
     const allDac = allDatac.slice(2,3)
-    const allDacc = allDatac.slice(3,4)
+    // const allDacc = allDatac.slice(3,4)
   return (
     <>
      <div className="">

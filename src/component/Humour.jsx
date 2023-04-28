@@ -1,10 +1,11 @@
-import React, {useEffect, useState} from 'react'
-import axios from 'axios'
-import{menu, close, logo, logoo} from '../assets';
-import Carousel from './Carousel';
+import React from 'react'
+// import React, {useEffect, useState} from 'react'
+// import axios from 'axios'
+// import{menu, close, logo, logoo} from '../assets';
+// import Carousel from './Carousel';
 // import Carousel from "./Carousel"
 import "./Hum.css"
-import Carousell from './Carousell';
+// import Carousell from './Carousell';
 import { Link } from 'react-router-dom'
 
 const Humour = ({allData}) => {

@@ -1,5 +1,5 @@
 import React from 'react'
-import { BottomNav, Footer, Imagination, ImaginationContent, Navbar } from '../component'
+import { BottomNav, Footer, Imagination, Navbar } from '../component'
 
 const ImaginationPage = ({allDatai}) => {
   return (

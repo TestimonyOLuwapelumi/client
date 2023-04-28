@@ -1,9 +1,9 @@
 import React, {useState} from 'react';
-import{menu, close, logo, logoo} from '../assets';
+import{menu, close, logoo} from '../assets';
 import { Link } from 'react-router-dom'
 // import Nav from './Nav';
 import "./Nav.css"
-import myImage from "../images/newsletter-bg.jpg"
+// import myImage from "../images/newsletter-bg.jpg"
 // import AdsComponent from './AdsComponent';
 import { FaSearch } from "react-icons/fa";
 
@@ -12,7 +12,7 @@ const Navbar = () => {
     
     const [toggle,setToggle]=useState(false);
     const handleClick = ()=>setToggle(!toggle)
-    const [open, setOpen] = useState(false);
+    // const [open, setOpen] = useState(false);
 
     const [showInput, setShowInput] = useState(false);
     const [data1, setData1] = useState(null);
@@ -42,10 +42,10 @@ const Navbar = () => {
     
 
   
-    const handleSearch = () => {
+    // const handleSearch = () => {
       // Perform search based on the searchQuery value
-      handleeClick();
-    }
+    //   handleeClick();
+    // }
   
 
   return (
